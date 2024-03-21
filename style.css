@@ -1,0 +1,26 @@
+#game-title {
+    /* Add your styles here */
+    color: #333;
+    font-family: Arial;
+    text-align: center; 
+}
+
+p {
+    text-align: center; /* Align text to center */
+    font-style: italic; /* Make text italic */
+    margin-bottom: 20px; /* Add space below paragraphs */
+}
+
+button {
+    padding: 10px 20px; /* Add padding to buttons */
+    margin: 5px; /* Add margin around buttons */
+    background-color: grey; /* Set background color */
+    color: white; /* Set text color */
+    /*border: black; /* Remove button border */
+    border-radius: 5px; /* Add border radius */
+    cursor: pointer; /* Change cursor to pointer on hover */
+}
+
+button:hover {
+    background-color: #f39199; /* Change background color on hover */
+}
